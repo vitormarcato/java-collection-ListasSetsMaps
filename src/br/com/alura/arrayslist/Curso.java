@@ -31,4 +31,18 @@ public class Curso {
 		
 	}
 
+	public int getTempoTotal() {
+		int tempoTotal = 0;
+		for (Aula aula : this.aulas) {
+			tempoTotal += aula.getTempo();  
+		}
+		return tempoTotal;
+	}
+
+	@Override
+	public String toString() {
+		return "Curso: " + nome + ", tempo total: " + getTempoTotal() + ", aulas: " + aulas;
+	}
+	
+	
 }
