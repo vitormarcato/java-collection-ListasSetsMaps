@@ -1,6 +1,5 @@
 package br.com.alura.arrayslist;
 
-import java.util.ArrayList;
 import java.util.Collection;
 import java.util.HashSet;
 
