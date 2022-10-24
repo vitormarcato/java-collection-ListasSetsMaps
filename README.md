@@ -4,6 +4,8 @@ Repositório dedicado às atividades feitas durante o curso Curso de Java Collec
 
 Neste curso aprendi sobre:
 
+- Orientações sobre consultar documentação oficial do Java.
+
 - Principais classes e métodos das Collections
 
 	classes: ArrayList, HashSet, LinkedHashSet, LinkedList, TreeSet, Vector, etc.
