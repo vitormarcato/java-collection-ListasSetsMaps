@@ -4,12 +4,16 @@ Repositório dedicado às atividades feitas durante o curso Curso de Java Collec
 
 Neste curso aprendi sobre:
 
-- Principais classes e métodos das Collections e além
+- Principais classes e métodos das Collections
+
 	classes: ArrayList, HashSet, LinkedHashSet, LinkedList, TreeSet, Vector, etc.
+	
 	métodos: unmodifiableList, add, shuffle, reverse, contains, size, sort, etc.
 
 - Aplicar boas práticas de OO nos relacionamentos
+
 	Declarações mais "genéricas" tiram melhor proveito do polimorfismo.
+	
 	Programação defensiva diminuindo o risco de problemas.
 
 - Como Iterators funcionam.
